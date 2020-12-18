@@ -1,3 +1,2 @@
-# The two other files are part of my learning process 
-# The titanic file which i learnt when i started learning from kaggle
+## The titanic code contains the survival prediction of the titanic dataset which i learnt from kaggle
 # The other one is based on NLP sentimental analysis 
